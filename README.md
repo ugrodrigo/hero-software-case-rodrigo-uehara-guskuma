@@ -40,7 +40,7 @@ hero-software-case/
 ├── requirements.txt                   ← Python dependencies
 │
 ├── Case_Study_Senior_GTM_Analyst.pdf  ← the original case brief (Hero Software)
-├── sonnet-blueprint.md                ← the planning blueprint written before analysis
+├── project-blueprint.md                ← the planning blueprint written before analysis
 │
 ├── csv_dateien/                       ← source datasets (Hero Software)
 │   ├── leads.csv                      ← 820 leads: source, trade, size, score, region, date
@@ -54,8 +54,8 @@ hero-software-case/
     ├── audit.py                       ← data-integrity audit
     │
     ├── funnel_analysis.md             ← full written narrative (all 3 tasks)
-    ├── presentation_compact.md        ← 15-minute presentation version
-    ├── presentation_compact.pdf       ← exported slides
+    ├── rodrigo_uehara_guskuma_case_senior_data_analyst_gtm.md  ← 15-minute presentation version
+    ├── rodrigo_uehara_guskuma_case_senior_data_analyst_gtm.pdf ← exported slides
     ├── data_questions.md              ← data inconsistencies + questions for the interviewer
     │
     └── charts/                        ← 12 generated PNG charts
@@ -66,7 +66,7 @@ hero-software-case/
 | If you want… | Read |
 |---|---|
 | The full story, with all evidence | [`analysis/funnel_analysis.md`](analysis/funnel_analysis.md) |
-| The 15-minute presentation version | [`analysis/presentation_compact.md`](analysis/presentation_compact.md) |
+| The 15-minute presentation version | [`analysis/rodrigo_uehara_guskuma_case_senior_data_analyst_gtm.md`](analysis/rodrigo_uehara_guskuma_case_senior_data_analyst_gtm.md) |
 | How I planned the work before touching data | [`project-blueprint.md`](project-blueprint.md) |
 | The sharp questions I'd ask the stakeholders | [`analysis/data_questions.md`](analysis/data_questions.md) |
 

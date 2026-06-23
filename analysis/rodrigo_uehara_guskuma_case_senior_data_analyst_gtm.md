@@ -1,7 +1,7 @@
 # HERO Software GTM Funnel Analysis
 ### [Rodrigo Uehara Guskuma](https://www.linkedin.com/in/rodrigo-guskuma/) | Senior GTM Analyst Case Study
 
-For more details about the code of this case, access it in the link below:<br>[github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma](https://github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma)
+For more details about the code, access the link below:<br>[github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma](https://github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma)
 
 ---
 
