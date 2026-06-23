@@ -1,18 +1,33 @@
 # HERO Software — GTM Funnel Analysis
-### 15-Minute Presentation | Senior GTM Analyst Case Study
+### [Rodrigo Uehara Guskuma](https://www.linkedin.com/in/rodrigo-guskuma/) | Senior GTM Analyst Case Study
+
+For more details about the code of this case, access it in the link below:
+https://github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma
 
 ---
 
-## Opening: The Truth (1 min)
+## Data Caveats
+
+1. **The +38%/+9% MQL and Bookings baselines aren't in the data.** Q3 2025 is missing; Q2 2026 is April only. I can't reproduce those exact figures. Within the window I have, MQL growth is +61% QoQ and cohort conversion fell from 11.4% → 10.3% — same directional story, can't validate the headline numbers.
+
+2. **Q2 2026 is a partial quarter.** The 6.4% booking rate is understated — April leads haven't finished converting. Treat it as a leading indicator, not a final result.
+
+3. **87.8% of leads have no outcome label.** 720 leads are neither booked nor in the DQ transcripts. The 10.1% booking rate assumes "no booking = lost." First RevOps conversation should clarify how many are still in active pipeline.
+
+---
+
+## Opening: The Truth
 
 > *"Sales blames lead quality. Marketing says Sales isn't converting. We need to know the truth."*
 
-**Both sides are right — about different segments.**
+**Both sides are right, but about different segments.**
 
-- Sales is correct that PV leads are unworkable (1.6% booking rate, 40% connect rate). Wrong to generalise it to all leads.
-- Marketing is correct that core-trade leads can be converted (SHK + Elektro at 21%+). Wrong to call it a Sales execution failure — SDRs already deprioritise PV on purpose (1.75 calls vs 4.25 for SHK).
+- Sales is correct that PV leads are unworkable (1.6% booking rate, 40% connect rate). But wrong to generalise it to all leads.
+- Marketing is correct that core-trade leads can be converted (SHK + Elektro at 21%+). But wrong to call it a Sales execution failure, SDRs already deprioritise PV on purpose (1.75 calls vs 4.25 for SHK).
 
-**The truth:** Neither team is the problem. Marketing scaled PV without updating the ICP — and no feedback loop existed to catch it.
+**The truth:** Neither team is the problem. Marketing scaled PV without updating the ICP, and no feedback loop existed to catch it.
+
+PV leads were counted the same as an SHK lead, same score, same routing to SDRs, same funnel treatment, even though PV businesses behave completely differently.
 
 ---
 
@@ -31,9 +46,9 @@
 
 ![Overall Funnel Waterfall](charts/01_funnel_waterfall.png)
 
-Two leakage points: **MQL → Connect** (37.6% never pick up) and **Connect → Demo** (only 38% reach a demo). Demo → Booking at 42% is healthy — the product closes well when the right person sees it.
+Two leakage points: **MQL → Connect** (37.6% never pick up) and **Connect → Demo** (only 38% reach a demo). Demo → Booking at 42% is healthy, the product closes well when the right person sees it.
 
-**But the break is not uniform.** Cut by trade and the picture is stark:
+**But the break is not uniform.** Cut by trade and a very different picture comes up:
 
 | Trade | MQLs | Connect % | Demo % | Booking % |
 |---|---|---|---|---|
@@ -49,24 +64,26 @@ The funnel breaks almost entirely **at the top, inside the PV segment.** PV lead
 
 ### What are the 2–3 most likely root causes?
 
-#### H1 — PV ICP Mismatch (Primary)
-> *Marketing scaled a segment the product isn't ready to win yet.*
+#### H1 — ICP Mismatch (Primary)
+> *Marketing scaled a segment (PV) the product isn't ready to win yet.*
 
 **Evidence:**
 - PV grew from **34% → 58%** of MQLs between Q4 2025 and Q2 2026
-- As PV share rose, overall booking rate fell from **11.4% → 6.4%** — arithmetic, not coincidence
+- As PV share rose, overall booking rate fell from **11.4% → 6.4%** this is a direct consequence of the mix shift.
 
 ![Trade Mix by Quarter](charts/10_trade_mix_by_quarter.png)
 
 - Transcripts confirm why: PV leads are too early-stage ("we just started doing PV"), too small (1–2 person shops), or confused about the product ("I thought this was for SHK")
-- Lead score didn't catch it — median score flat at 56–57 across all quarters despite PV flooding the pool
+- Lead score didn't catch it, median score flat at 56–57 across all quarters despite PV flooding the pool
 
-**Strength: High. The smoking gun.**
+**Hypothesis Strength: High, the main driver.**
 
 ---
 
-#### H2 — Response-Time Gap on Core Trades (Compounding)
+#### H2 — Response-Time Gap on Core Trades
 > *Fast follow-up on good leads is being missed.*
+
+Some SHK and Elektro leads worth calling, are waiting too long before anyone reaches out, and by then they've gone cold, talked to a competitor, or just lost interest.
 
 Within SHK + Elektro only:
 
@@ -77,11 +94,11 @@ Within SHK + Elektro only:
 
 ![Time to Touch vs Conversion](charts/08_time_to_touch_vs_conversion.png)
 
-**Caveat:** 80% of slow-touched leads are PV — SDRs aren't neglecting good leads, they're correctly triaging bad ones. The response-time lever applies to **core-trade leads only**, where the recoverable ARR is ~€38k.
+**Caveat:** 80% of slow-touched leads are PV, SDRs aren't neglecting good leads, they're correctly triaging bad ones. The response-time lever applies to **core-trade leads only**, where currently ~€38k is being left on the table every 6 months (based on the current data) by not having a 2-hour response SLA on core-trade leads. That's the recurring cost of not fixing it and it might take two weeks to fix.
 
 ![SDR Effort by Trade](charts/11_sdr_effort_by_trade.png)
 
-**Strength: Moderate. Real for core trades, but not the headline number.**
+**Hypothesis Strength: Moderate. Real for core trades, but not the headline number.**
 
 ---
 
@@ -89,9 +106,15 @@ Within SHK + Elektro only:
 > *Wrong leads reaching demo stage waste AE time.*
 
 - Q2 2026 demo-to-booking rate dropped to **30%** vs 41% in Q4 2025
-- 1–2 MA segment reaches demos at 14% rate but closes at only 4.5% — unqualified leads slipping through
+- 1–2 MA segment reaches demos at 14% rate but closes at only 4.5% unqualified leads slipping through
 
-**Strength: Moderate. Real but secondary — tackle after H1.**
+Micro-businesses are somehow making it through to the demo stage (14% demo rate) but almost never buying (4.5% close rate), because the product is priced and built for teams, not solo operators running everything alone.
+
+The transcript makes this explicit:
+
+>"Wir sind nur zu zweit — ich und mein Geselle" (T016) — "It's just me and my apprentice, we do 2-3 PV installations a month. I don't need management software for that."
+
+**Hypothesis Strength: Moderate. Real but secondary, prioritize H1 first.**
 
 ---
 
@@ -107,7 +130,7 @@ Within SHK + Elektro only:
 
 **H2 in parallel** — a 2-week quick win that builds credibility without waiting for H1 to land. Don't oversell the revenue impact.
 
-**Important nuance:** PV is not worthless — its deals are the **largest of any trade (ø €7,857)**. The fix is to gate *early-stage / sub-scale* PV, not abandon the segment.
+**Important nuance:** PV is not worthless, its deals are the **largest of any trade (ø €7,857)**. The fix is to gate *early-stage / sub-scale* PV, not abandon the segment.
 
 ![Revenue by Trade](charts/12_revenue_by_trade.png)
 
@@ -117,7 +140,7 @@ Within SHK + Elektro only:
 
 ### The problem with the current state
 
-20 call transcripts are filed and forgotten. They contain exact customer language, objection patterns, competitive intelligence, and ICP signals — none of which feed back into Marketing targeting, lead scoring, or Sales playbooks.
+20 call transcripts are filed and forgotten. They contain exact customer language, objection patterns, competitive intelligence, and ICP signals, none of which feed back into Marketing targeting, lead scoring, or Sales playbooks.
 
 ### The framework: Disqualification Intelligence Loop
 
@@ -141,6 +164,29 @@ Within SHK + Elektro only:
 **Scale path:** Manual CRM tags (Week 1) → keyword classifier on call notes (Month 2) → LLM tagger auto-feeding lead score (Month 3)
 
 ![DQ Reasons](charts/09_dq_reasons.png)
+
+---
+
+### AI-Augmented Scale Path
+
+The manual loop works on day one. AI is what makes it cover **every call instead of a 20-row sample** — and it unlocks something no manual process can: scoring the past.
+
+**1. Retroactive backfill — the highest-value move.**
+87.8% of leads (720) have no outcome label. If those calls were recorded, an LLM can mine *all* historical transcripts — not just the 20 sampled — and assign `dq_category` + `urgency_horizon` to leads that are currently invisible. Every "3–6 months" DQ becomes a re-engagement list. This re-lights dead pipeline retroactively; no manual tagging can.
+
+**2. Real-time extraction at scale.**
+Call recording → transcription (Whisper) → LLM pulls the three structured fields → auto-feeds the weekly digest *and* the lead score. Removes the dependency on SDRs remembering to tag — the weak point of any manual process. German call data is well within modern LLM capability.
+
+**3. Sub-scale / early-stage PV detector at MQL entry (the H1 lever).**
+The whole diagnosis is "Marketing scaled PV without updating the ICP." An LLM scoring inbound lead context against the *real* ICP can flag "early-stage PV" or "1–2 MA" **before** an SDR is ever assigned — fixing the problem upstream.
+
+**Guardrails (why this is safe):**
+
+- `objection_verbatim` is **extracted, never generated** — pull the customer's actual sentence, never let the model paraphrase, or the Marketing signal gets poisoned with hallucinated language.
+- Weekly human spot-check on a sample until classification accuracy is trusted.
+- AI changes the *cost and speed* of the loop, not its logic — the value holds with or without it.
+
+> **One-liner:** *"The loop works manually on day one. AI is what makes it cover every call instead of a sample — and it lets us retroactively score the 720 leads we currently can't see."*
 
 ---
 
@@ -201,7 +247,7 @@ Share: Source waterfall + PV trade-mix shift. Propose: gate PV leads at ≥6 emp
 **Week 2 — CRO + CEO**
 
 Two slides only:
-1. The PV dilution math — trade mix chart + booking rate by trade. Arithmetic is undeniable.
+1. The PV dilution math — trade mix chart + booking rate by trade. Numbers are undeniable.
 2. The two fixes + projected impact — PV ICP gate and core-trade SLA.
 
 Ask: approval to redefine PV MQL criteria and run a 30-day Meta pause as a controlled experiment.
@@ -242,20 +288,7 @@ Audit timestamps in CRM by rep. If the bottleneck is routing speed, implement au
 
 **Standing rule:** Weekly metric review for 8 weeks. If leading indicators (connect rate and demo rate by trade) aren't moving by week 2, course-correct in week 3 — not week 4.
 
----
-
-## Data Caveats — Say These Proactively (1 min)
-
-Three flags that show rigor, not weakness:
-
-1. **The +38%/+9% baseline isn't in the data.** Q3 2025 is missing; Q2 2026 is April only. I can't reproduce those exact figures. Within the window I have, MQL growth is +61% QoQ and cohort conversion fell from 11.4% → 10.3% — same directional story, can't validate the headline numbers.
-
-2. **Q2 2026 is a partial quarter.** The 6.4% booking rate is understated — April leads haven't finished converting. Treat it as a leading indicator, not a final result.
-
-3. **87.8% of leads have no outcome label.** 720 leads are neither booked nor in the DQ transcripts. The 10.1% booking rate assumes "no booking = lost." First RevOps conversation should clarify how many are still in active pipeline.
-
----
-
+<!-- 
 ## Key Numbers to Remember
 
 | Metric | Number |
@@ -268,4 +301,4 @@ Three flags that show rigor, not weakness:
 | Core-trade ≤2h booking rate | **28.8%** |
 | Meta Ads booking rate | **3.0%** |
 | Recoverable ARR from SLA fix | **~€38k** |
-| Total booked revenue | €495,005 |
+| Total booked revenue | €495,005 | -->
