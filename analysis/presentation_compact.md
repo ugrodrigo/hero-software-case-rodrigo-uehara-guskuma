@@ -1,16 +1,15 @@
-# HERO Software — GTM Funnel Analysis
+# HERO Software GTM Funnel Analysis
 ### [Rodrigo Uehara Guskuma](https://www.linkedin.com/in/rodrigo-guskuma/) | Senior GTM Analyst Case Study
 
-For more details about the code of this case, access it in the link below:
-https://github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma
+For more details about the code of this case, access it in the link below:<br>[github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma](https://github.com/ugrodrigo/hero-software-case-rodrigo-uehara-guskuma)
 
 ---
 
 ## Data Caveats
 
-1. **The +38%/+9% MQL and Bookings baselines aren't in the data.** Q3 2025 is missing; Q2 2026 is April only. I can't reproduce those exact figures. Within the window I have, MQL growth is +61% QoQ and cohort conversion fell from 11.4% → 10.3% — same directional story, can't validate the headline numbers.
+1. **The +38%/+9% MQL and Bookings baselines aren't in the data.** Q3 2025 is missing; Q2 2026 is April only. I can't reproduce those exact figures. Within the window I have, MQL growth is +61% QoQ and cohort conversion fell from 11.4% → 10.3% same directional story, can't validate the headline numbers.
 
-2. **Q2 2026 is a partial quarter.** The 6.4% booking rate is understated — April leads haven't finished converting. Treat it as a leading indicator, not a final result.
+2. **Q2 2026 is a partial quarter.** The 6.4% booking rate is understated April leads haven't finished converting. Treat it as a leading indicator, not a final result.
 
 3. **87.8% of leads have no outcome label.** 720 leads are neither booked nor in the DQ transcripts. The 10.1% booking rate assumes "no booking = lost." First RevOps conversation should clarify how many are still in active pipeline.
 
