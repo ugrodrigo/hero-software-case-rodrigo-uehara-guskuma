@@ -1,0 +1,821 @@
+lead_id,created_at,trade,source,company_size,region,lead_score
+L10048,2025-11-01,SHK,Google Ads,50+ MA,NRW,58
+L10424,2025-11-01,SHK,Google Ads,6-15 MA,Österreich,63
+L10551,2025-11-01,Elektro,Meta Ads,6-15 MA,Sachsen,57
+L10757,2025-11-01,Maler,Organic Search,6-15 MA,Österreich,57
+L10349,2025-11-02,PV,Meta Ads,1-2 MA,Hessen,55
+L10366,2025-11-02,Elektro,Referral,6-15 MA,BW,57
+L10402,2025-11-02,SHK,Meta Ads,3-5 MA,Österreich,52
+L10425,2025-11-02,Dachdecker,Organic Search,50+ MA,Berlin,46
+L10533,2025-11-02,PV,Meta Ads,16-50 MA,Sachsen,75
+L10664,2025-11-02,SHK,Google Ads,16-50 MA,Berlin,61
+L10815,2025-11-02,Elektro,Google Ads,6-15 MA,Österreich,49
+L10091,2025-11-03,Dachdecker,Organic Search,1-2 MA,Sachsen,71
+L10639,2025-11-03,Dachdecker,Organic Search,16-50 MA,Schweiz,57
+L10776,2025-11-03,Dachdecker,Google Ads,3-5 MA,Hamburg,31
+L10813,2025-11-03,Dachdecker,Meta Ads,6-15 MA,Bayern,85
+L10235,2025-11-04,SHK,Google Ads,3-5 MA,BW,67
+L10436,2025-11-04,SHK,Meta Ads,3-5 MA,Bayern,47
+L10482,2025-11-04,SHK,Meta Ads,16-50 MA,Niedersachsen,51
+L10387,2025-11-05,Elektro,Meta Ads,16-50 MA,BW,41
+L10537,2025-11-05,Maler,Organic Search,3-5 MA,Berlin,63
+L10725,2025-11-05,SHK,Google Ads,3-5 MA,Hamburg,30
+L10739,2025-11-05,Elektro,Organic Search,1-2 MA,Bayern,59
+L10480,2025-11-06,Elektro,Organic Search,6-15 MA,NRW,85
+L10710,2025-11-06,Elektro,Organic Search,50+ MA,BW,55
+L10172,2025-11-07,Elektro,Google Ads,3-5 MA,BW,61
+L10489,2025-11-07,SHK,Google Ads,16-50 MA,Schweiz,52
+L10227,2025-11-08,Dachdecker,Google Ads,6-15 MA,NRW,79
+L10238,2025-11-08,SHK,Google Ads,3-5 MA,Bayern,50
+L10382,2025-11-08,Elektro,Organic Search,16-50 MA,Österreich,80
+L10605,2025-11-08,PV,Meta Ads,1-2 MA,Schweiz,36
+L10641,2025-11-08,Elektro,Google Ads,1-2 MA,Sachsen,39
+L10672,2025-11-08,Maler,Organic Search,3-5 MA,Österreich,58
+L10060,2025-11-09,SHK,Organic Search,16-50 MA,Österreich,66
+L10194,2025-11-09,PV,Meta Ads,1-2 MA,Sachsen,46
+L10265,2025-11-09,PV,Referral,3-5 MA,Niedersachsen,82
+L10341,2025-11-09,Elektro,Meta Ads,1-2 MA,Hessen,42
+L10447,2025-11-09,SHK,Organic Search,1-2 MA,Sachsen,53
+L10033,2025-11-10,Elektro,Organic Search,1-2 MA,BW,40
+L10274,2025-11-10,Elektro,Google Ads,16-50 MA,Hamburg,53
+L10470,2025-11-10,PV,Google Ads,16-50 MA,Berlin,66
+L10493,2025-11-10,PV,Google Ads,50+ MA,Berlin,61
+L10557,2025-11-10,PV,Organic Search,1-2 MA,BW,53
+L10191,2025-11-11,SHK,Google Ads,3-5 MA,NRW,46
+L10545,2025-11-11,SHK,Organic Search,50+ MA,Sachsen,65
+L10765,2025-11-11,SHK,Google Ads,6-15 MA,NRW,62
+L10780,2025-11-11,Maler,Meta Ads,1-2 MA,Hessen,47
+L10037,2025-11-12,Elektro,Google Ads,16-50 MA,Österreich,46
+L10110,2025-11-12,PV,Meta Ads,50+ MA,Niedersachsen,67
+L10115,2025-11-12,SHK,Google Ads,6-15 MA,Schweiz,67
+L10164,2025-11-12,SHK,Google Ads,1-2 MA,Hamburg,20
+L10737,2025-11-12,PV,Google Ads,6-15 MA,BW,58
+L10016,2025-11-13,PV,Google Ads,3-5 MA,Hessen,65
+L10371,2025-11-13,SHK,Google Ads,3-5 MA,BW,53
+L10061,2025-11-14,Maler,Referral,6-15 MA,BW,83
+L10113,2025-11-14,Maler,Organic Search,16-50 MA,Schweiz,65
+L10426,2025-11-14,SHK,Google Ads,16-50 MA,BW,66
+L10742,2025-11-14,PV,Meta Ads,16-50 MA,Österreich,72
+L10771,2025-11-14,Elektro,Google Ads,6-15 MA,Schweiz,43
+L10146,2025-11-15,Elektro,Meta Ads,6-15 MA,Berlin,61
+L10277,2025-11-15,Elektro,Google Ads,6-15 MA,Schweiz,77
+L10415,2025-11-15,Dachdecker,Meta Ads,1-2 MA,Österreich,30
+L10461,2025-11-15,SHK,Referral,6-15 MA,BW,59
+L10629,2025-11-15,SHK,Google Ads,1-2 MA,Schweiz,51
+L10188,2025-11-16,PV,Google Ads,3-5 MA,Hamburg,56
+L10097,2025-11-17,Elektro,Google Ads,6-15 MA,Niedersachsen,80
+L10404,2025-11-17,PV,Meta Ads,3-5 MA,Bayern,44
+L10452,2025-11-17,SHK,Meta Ads,3-5 MA,Schweiz,40
+L10118,2025-11-18,PV,Google Ads,16-50 MA,Schweiz,44
+L10156,2025-11-18,SHK,Organic Search,6-15 MA,Hamburg,75
+L10178,2025-11-18,SHK,Organic Search,1-2 MA,Sachsen,42
+L10273,2025-11-18,Elektro,Referral,50+ MA,Niedersachsen,82
+L10315,2025-11-18,Elektro,Referral,1-2 MA,NRW,66
+L10580,2025-11-18,Elektro,Organic Search,1-2 MA,Hamburg,25
+L10422,2025-11-19,SHK,Organic Search,3-5 MA,NRW,41
+L10457,2025-11-19,SHK,Google Ads,16-50 MA,Berlin,72
+L10502,2025-11-19,SHK,Google Ads,3-5 MA,BW,60
+L10506,2025-11-19,Elektro,Google Ads,6-15 MA,Schweiz,50
+L10584,2025-11-19,SHK,Organic Search,3-5 MA,Hessen,74
+L10615,2025-11-19,Maler,Google Ads,6-15 MA,Bayern,77
+L10659,2025-11-19,SHK,Meta Ads,6-15 MA,Bayern,70
+L10746,2025-11-19,SHK,Meta Ads,16-50 MA,NRW,44
+L10559,2025-11-20,SHK,Organic Search,6-15 MA,NRW,73
+L10669,2025-11-20,Elektro,Google Ads,3-5 MA,Österreich,69
+L10782,2025-11-20,Elektro,Referral,6-15 MA,BW,70
+L10054,2025-11-21,SHK,Google Ads,3-5 MA,Niedersachsen,59
+L10088,2025-11-21,Dachdecker,Meta Ads,6-15 MA,Berlin,65
+L10373,2025-11-21,SHK,Google Ads,3-5 MA,Schweiz,54
+L10747,2025-11-21,SHK,Meta Ads,6-15 MA,Berlin,74
+L10018,2025-11-22,SHK,Google Ads,1-2 MA,Hessen,55
+L10573,2025-11-22,Elektro,Referral,1-2 MA,Sachsen,37
+L10160,2025-11-23,Dachdecker,Google Ads,1-2 MA,Hamburg,38
+L10595,2025-11-23,PV,Organic Search,6-15 MA,Berlin,86
+L10101,2025-11-24,Maler,Organic Search,6-15 MA,Niedersachsen,70
+L10108,2025-11-24,PV,Meta Ads,6-15 MA,Schweiz,54
+L10126,2025-11-24,PV,Google Ads,16-50 MA,NRW,54
+L10558,2025-11-24,PV,Meta Ads,1-2 MA,Bayern,28
+L10730,2025-11-24,PV,Referral,3-5 MA,Hamburg,55
+L10023,2025-11-25,Maler,Organic Search,1-2 MA,Österreich,68
+L10116,2025-11-25,Elektro,Meta Ads,3-5 MA,Hessen,54
+L10278,2025-11-25,Elektro,Referral,16-50 MA,Sachsen,93
+L10043,2025-11-26,Dachdecker,Referral,16-50 MA,Sachsen,75
+L10269,2025-11-26,Elektro,Organic Search,1-2 MA,Niedersachsen,55
+L10570,2025-11-26,SHK,Organic Search,50+ MA,NRW,44
+L10657,2025-11-26,SHK,Google Ads,16-50 MA,Österreich,65
+L10794,2025-11-26,PV,Google Ads,6-15 MA,Hessen,80
+L10253,2025-11-27,Elektro,Organic Search,16-50 MA,Hamburg,60
+L10633,2025-11-27,Elektro,Organic Search,3-5 MA,Hamburg,59
+L10797,2025-11-27,SHK,Google Ads,3-5 MA,Bayern,47
+L10624,2025-11-28,Dachdecker,Google Ads,50+ MA,Sachsen,30
+L10655,2025-11-28,Dachdecker,Organic Search,3-5 MA,Österreich,52
+L10067,2025-11-29,SHK,Google Ads,3-5 MA,BW,59
+L10069,2025-11-29,SHK,Organic Search,6-15 MA,BW,75
+L10351,2025-11-29,PV,Google Ads,3-5 MA,Sachsen,47
+L10697,2025-11-29,PV,Organic Search,3-5 MA,Bayern,49
+L10020,2025-11-30,SHK,Google Ads,50+ MA,Österreich,30
+L10249,2025-11-30,Maler,Organic Search,3-5 MA,BW,72
+L10454,2025-11-30,Elektro,Google Ads,3-5 MA,Sachsen,70
+L10766,2025-11-30,PV,Google Ads,3-5 MA,Hamburg,68
+L10004,2025-12-01,PV,Google Ads,1-2 MA,Berlin,26
+L10446,2025-12-01,SHK,Google Ads,6-15 MA,BW,49
+L10577,2025-12-01,PV,Meta Ads,3-5 MA,NRW,27
+L10640,2025-12-01,Maler,Google Ads,6-15 MA,NRW,76
+L10665,2025-12-01,PV,Meta Ads,3-5 MA,Österreich,48
+L10711,2025-12-01,Maler,Google Ads,3-5 MA,Niedersachsen,45
+L10717,2025-12-01,SHK,Google Ads,16-50 MA,NRW,66
+L10217,2025-12-02,PV,Google Ads,6-15 MA,NRW,64
+L10247,2025-12-02,SHK,Referral,6-15 MA,Hamburg,52
+L10261,2025-12-02,Maler,Google Ads,3-5 MA,Österreich,48
+L10443,2025-12-03,PV,Google Ads,16-50 MA,BW,46
+L10652,2025-12-03,SHK,Google Ads,50+ MA,Schweiz,66
+L10675,2025-12-03,Elektro,Organic Search,6-15 MA,NRW,56
+L10264,2025-12-04,PV,Organic Search,6-15 MA,Schweiz,42
+L10397,2025-12-04,PV,Organic Search,3-5 MA,Schweiz,72
+L10510,2025-12-04,SHK,Referral,3-5 MA,Niedersachsen,48
+L10590,2025-12-04,SHK,Organic Search,3-5 MA,Schweiz,75
+L10053,2025-12-05,Elektro,Organic Search,16-50 MA,Niedersachsen,67
+L10058,2025-12-05,Maler,Meta Ads,1-2 MA,Schweiz,42
+L10319,2025-12-05,PV,Organic Search,50+ MA,Berlin,61
+L10378,2025-12-05,Elektro,Organic Search,50+ MA,Hamburg,51
+L10476,2025-12-05,PV,Google Ads,1-2 MA,Hessen,21
+L10527,2025-12-05,Elektro,Referral,6-15 MA,Sachsen,64
+L10604,2025-12-05,SHK,Referral,50+ MA,Österreich,53
+L10799,2025-12-05,Maler,Referral,16-50 MA,Hamburg,82
+L10120,2025-12-06,Elektro,Referral,16-50 MA,BW,92
+L10628,2025-12-06,PV,Organic Search,1-2 MA,Österreich,56
+L10816,2025-12-06,PV,Google Ads,1-2 MA,Bayern,52
+L10036,2025-12-07,Maler,Google Ads,6-15 MA,Österreich,48
+L10272,2025-12-07,Elektro,Organic Search,6-15 MA,Hamburg,74
+L10324,2025-12-07,PV,Referral,1-2 MA,Berlin,71
+L10400,2025-12-07,PV,Meta Ads,16-50 MA,NRW,68
+L10499,2025-12-07,Elektro,Google Ads,16-50 MA,Österreich,60
+L10663,2025-12-07,PV,Google Ads,1-2 MA,Österreich,24
+L10720,2025-12-07,PV,Google Ads,3-5 MA,NRW,54
+L10723,2025-12-07,SHK,Organic Search,3-5 MA,Hamburg,77
+L10215,2025-12-08,SHK,Google Ads,1-2 MA,BW,49
+L10304,2025-12-08,Elektro,Organic Search,6-15 MA,Hessen,56
+L10524,2025-12-08,SHK,Organic Search,1-2 MA,Bayern,54
+L10147,2025-12-09,Dachdecker,Referral,1-2 MA,Berlin,67
+L10200,2025-12-09,SHK,Google Ads,6-15 MA,BW,61
+L10279,2025-12-09,PV,Meta Ads,1-2 MA,Bayern,21
+L10550,2025-12-09,Maler,Organic Search,16-50 MA,Österreich,57
+L10597,2025-12-09,PV,Google Ads,50+ MA,Hessen,39
+L10731,2025-12-09,PV,Meta Ads,6-15 MA,Niedersachsen,67
+L10166,2025-12-10,PV,Google Ads,3-5 MA,Niedersachsen,44
+L10456,2025-12-10,Elektro,Meta Ads,3-5 MA,Bayern,35
+L10674,2025-12-10,Maler,Organic Search,6-15 MA,Niedersachsen,53
+L10009,2025-12-11,PV,Organic Search,6-15 MA,BW,87
+L10325,2025-12-11,PV,Google Ads,3-5 MA,Bayern,45
+L10336,2025-12-11,Elektro,Organic Search,50+ MA,Bayern,49
+L10358,2025-12-11,PV,Meta Ads,6-15 MA,Berlin,46
+L10492,2025-12-11,SHK,Google Ads,3-5 MA,BW,30
+L10616,2025-12-11,PV,Organic Search,16-50 MA,Berlin,56
+L10709,2025-12-11,SHK,Google Ads,1-2 MA,Hamburg,60
+L10789,2025-12-11,PV,Organic Search,6-15 MA,Niedersachsen,62
+L10165,2025-12-12,PV,Organic Search,1-2 MA,Sachsen,37
+L10356,2025-12-12,PV,Referral,6-15 MA,Hessen,59
+L10522,2025-12-12,Elektro,Referral,3-5 MA,Österreich,63
+L10700,2025-12-12,Elektro,Organic Search,6-15 MA,Hamburg,71
+L10311,2025-12-13,Elektro,Referral,3-5 MA,Schweiz,69
+L10685,2025-12-13,SHK,Referral,50+ MA,Niedersachsen,74
+L10814,2025-12-13,PV,Meta Ads,3-5 MA,BW,59
+L10085,2025-12-14,PV,Organic Search,6-15 MA,Bayern,61
+L10182,2025-12-14,Dachdecker,Organic Search,50+ MA,Schweiz,79
+L10226,2025-12-14,Maler,Google Ads,16-50 MA,Sachsen,48
+L10542,2025-12-14,SHK,Organic Search,16-50 MA,Sachsen,75
+L10678,2025-12-14,SHK,Meta Ads,16-50 MA,Schweiz,41
+L10690,2025-12-14,SHK,Organic Search,6-15 MA,Berlin,75
+L10026,2025-12-15,SHK,Meta Ads,6-15 MA,Bayern,51
+L10075,2025-12-15,SHK,Google Ads,3-5 MA,Berlin,56
+L10285,2025-12-15,PV,Organic Search,1-2 MA,Schweiz,45
+L10649,2025-12-15,Elektro,Google Ads,1-2 MA,Hamburg,52
+L10706,2025-12-15,PV,Google Ads,6-15 MA,Schweiz,68
+L10002,2025-12-16,SHK,Meta Ads,3-5 MA,Österreich,53
+L10134,2025-12-16,PV,Organic Search,3-5 MA,Hamburg,62
+L10248,2025-12-16,Elektro,Organic Search,3-5 MA,Schweiz,41
+L10327,2025-12-16,PV,Organic Search,3-5 MA,Schweiz,56
+L10686,2025-12-16,Dachdecker,Organic Search,3-5 MA,Niedersachsen,54
+L10726,2025-12-16,SHK,Google Ads,3-5 MA,Berlin,49
+L10738,2025-12-16,PV,Google Ads,6-15 MA,Sachsen,69
+L10022,2025-12-17,Maler,Organic Search,1-2 MA,Hamburg,36
+L10230,2025-12-17,PV,Google Ads,3-5 MA,BW,61
+L10434,2025-12-17,PV,Meta Ads,6-15 MA,Bayern,66
+L10286,2025-12-18,Maler,Google Ads,1-2 MA,Bayern,48
+L10291,2025-12-18,Elektro,Google Ads,50+ MA,Hessen,48
+L10453,2025-12-18,PV,Meta Ads,3-5 MA,Niedersachsen,61
+L10168,2025-12-19,SHK,Organic Search,16-50 MA,NRW,52
+L10307,2025-12-19,Elektro,Google Ads,3-5 MA,Hessen,51
+L10372,2025-12-19,PV,Referral,3-5 MA,Schweiz,59
+L10449,2025-12-19,PV,Google Ads,3-5 MA,BW,66
+L10478,2025-12-19,Elektro,Organic Search,16-50 MA,Bayern,68
+L10532,2025-12-19,Elektro,Google Ads,6-15 MA,Schweiz,63
+L10662,2025-12-20,PV,Meta Ads,16-50 MA,Hessen,82
+L10083,2025-12-21,SHK,Google Ads,3-5 MA,Berlin,47
+L10385,2025-12-21,PV,Google Ads,6-15 MA,Schweiz,63
+L10496,2025-12-21,SHK,Referral,1-2 MA,Berlin,38
+L10512,2025-12-21,PV,Google Ads,16-50 MA,BW,71
+L10535,2025-12-21,Maler,Organic Search,6-15 MA,Niedersachsen,56
+L10541,2025-12-21,PV,Organic Search,16-50 MA,Sachsen,54
+L10012,2025-12-22,Dachdecker,Google Ads,6-15 MA,Sachsen,63
+L10014,2025-12-22,PV,Organic Search,6-15 MA,Sachsen,62
+L10035,2025-12-22,PV,Referral,3-5 MA,Österreich,73
+L10111,2025-12-22,SHK,Organic Search,1-2 MA,BW,34
+L10131,2025-12-22,Elektro,Organic Search,3-5 MA,Schweiz,77
+L10463,2025-12-22,SHK,Organic Search,16-50 MA,Hessen,80
+L10505,2025-12-22,PV,Meta Ads,16-50 MA,Schweiz,32
+L10565,2025-12-22,SHK,Meta Ads,1-2 MA,Bayern,28
+L10750,2025-12-22,PV,Meta Ads,16-50 MA,BW,50
+L10760,2025-12-22,PV,Google Ads,3-5 MA,Hessen,35
+L10724,2025-12-23,PV,Organic Search,3-5 MA,NRW,42
+L10073,2025-12-24,PV,Organic Search,6-15 MA,Hessen,75
+L10174,2025-12-24,PV,Meta Ads,6-15 MA,Berlin,75
+L10189,2025-12-24,PV,Google Ads,3-5 MA,BW,48
+L10096,2025-12-25,PV,Referral,3-5 MA,Bayern,76
+L10377,2025-12-25,Elektro,Organic Search,1-2 MA,Schweiz,38
+L10394,2025-12-25,PV,Organic Search,1-2 MA,BW,60
+L10520,2025-12-25,Dachdecker,Organic Search,6-15 MA,Niedersachsen,62
+L10064,2025-12-26,PV,Google Ads,6-15 MA,Sachsen,78
+L10074,2025-12-26,Elektro,Google Ads,16-50 MA,BW,47
+L10180,2025-12-26,PV,Meta Ads,6-15 MA,Niedersachsen,56
+L10223,2025-12-26,SHK,Google Ads,3-5 MA,Österreich,39
+L10303,2025-12-26,PV,Meta Ads,6-15 MA,NRW,77
+L10437,2025-12-26,PV,Meta Ads,3-5 MA,Berlin,25
+L10528,2025-12-26,SHK,Google Ads,16-50 MA,Niedersachsen,56
+L10818,2025-12-26,PV,Meta Ads,6-15 MA,Österreich,51
+L10192,2025-12-27,SHK,Google Ads,6-15 MA,NRW,55
+L10369,2025-12-27,PV,Google Ads,6-15 MA,Österreich,55
+L10376,2025-12-27,PV,Organic Search,50+ MA,Niedersachsen,58
+L10401,2025-12-27,Elektro,Google Ads,3-5 MA,Bayern,52
+L10781,2025-12-27,PV,Organic Search,3-5 MA,Berlin,72
+L10812,2025-12-27,SHK,Meta Ads,1-2 MA,Niedersachsen,12
+L10078,2025-12-28,Dachdecker,Organic Search,50+ MA,Berlin,74
+L10148,2025-12-28,Elektro,Referral,50+ MA,Berlin,57
+L10433,2025-12-28,PV,Organic Search,16-50 MA,Niedersachsen,83
+L10500,2025-12-28,SHK,Google Ads,6-15 MA,Hamburg,45
+L10543,2025-12-28,SHK,Meta Ads,1-2 MA,Schweiz,52
+L10592,2025-12-28,Elektro,Meta Ads,3-5 MA,Österreich,41
+L10610,2025-12-28,PV,Google Ads,6-15 MA,Österreich,38
+L10805,2025-12-28,SHK,Meta Ads,6-15 MA,NRW,77
+L10817,2025-12-28,SHK,Google Ads,1-2 MA,NRW,25
+L10203,2025-12-29,PV,Organic Search,3-5 MA,BW,57
+L10308,2025-12-29,PV,Meta Ads,3-5 MA,Sachsen,45
+L10328,2025-12-29,Maler,Organic Search,6-15 MA,Berlin,67
+L10331,2025-12-29,PV,Google Ads,3-5 MA,Niedersachsen,49
+L10465,2025-12-29,Maler,Google Ads,1-2 MA,Berlin,45
+L10699,2025-12-29,Dachdecker,Google Ads,1-2 MA,BW,35
+L10758,2025-12-29,SHK,Referral,3-5 MA,Hessen,83
+L10488,2025-12-30,Elektro,Organic Search,1-2 MA,Bayern,60
+L10177,2025-12-31,PV,Meta Ads,3-5 MA,NRW,59
+L10239,2025-12-31,Maler,Meta Ads,6-15 MA,Hessen,39
+L10388,2025-12-31,PV,Google Ads,6-15 MA,Sachsen,68
+L10566,2025-12-31,SHK,Meta Ads,16-50 MA,Bayern,29
+L10732,2025-12-31,SHK,Referral,6-15 MA,Österreich,85
+L10608,2026-01-01,Dachdecker,Meta Ads,6-15 MA,Österreich,50
+L10631,2026-01-01,PV,Meta Ads,6-15 MA,Schweiz,50
+L10692,2026-01-01,SHK,Organic Search,3-5 MA,Schweiz,43
+L10791,2026-01-01,PV,Google Ads,6-15 MA,NRW,59
+L10123,2026-01-02,PV,Google Ads,16-50 MA,Bayern,83
+L10142,2026-01-02,Elektro,Organic Search,3-5 MA,NRW,54
+L10202,2026-01-02,PV,Organic Search,1-2 MA,BW,53
+L10375,2026-01-02,PV,Meta Ads,3-5 MA,NRW,50
+L10578,2026-01-02,Maler,Google Ads,1-2 MA,Niedersachsen,50
+L10807,2026-01-02,Elektro,Meta Ads,6-15 MA,Niedersachsen,62
+L10808,2026-01-02,Dachdecker,Organic Search,16-50 MA,BW,53
+L10167,2026-01-03,PV,Organic Search,6-15 MA,Hessen,57
+L10395,2026-01-03,SHK,Google Ads,6-15 MA,Hamburg,78
+L10076,2026-01-04,PV,Meta Ads,3-5 MA,Berlin,45
+L10121,2026-01-04,SHK,Google Ads,1-2 MA,Berlin,52
+L10136,2026-01-04,Dachdecker,Organic Search,3-5 MA,Österreich,64
+L10547,2026-01-04,Elektro,Meta Ads,6-15 MA,Bayern,68
+L10777,2026-01-04,PV,Google Ads,3-5 MA,Österreich,46
+L10031,2026-01-05,SHK,Organic Search,3-5 MA,Österreich,64
+L10305,2026-01-05,PV,Organic Search,6-15 MA,NRW,94
+L10754,2026-01-05,PV,Organic Search,6-15 MA,Sachsen,72
+L10768,2026-01-05,PV,Google Ads,1-2 MA,Berlin,40
+L10330,2026-01-06,PV,Referral,16-50 MA,Sachsen,86
+L10668,2026-01-06,Elektro,Organic Search,1-2 MA,BW,45
+L10694,2026-01-06,PV,Google Ads,3-5 MA,Sachsen,53
+L10055,2026-01-07,PV,Google Ads,3-5 MA,Bayern,42
+L10254,2026-01-07,PV,Organic Search,3-5 MA,Hessen,50
+L10361,2026-01-07,PV,Google Ads,16-50 MA,Sachsen,85
+L10691,2026-01-07,PV,Google Ads,1-2 MA,BW,51
+L10741,2026-01-07,PV,Google Ads,16-50 MA,Schweiz,75
+L10100,2026-01-08,Elektro,Organic Search,3-5 MA,BW,49
+L10199,2026-01-08,PV,Organic Search,16-50 MA,Niedersachsen,52
+L10411,2026-01-08,PV,Meta Ads,1-2 MA,Hessen,30
+L10661,2026-01-08,PV,Meta Ads,6-15 MA,Schweiz,52
+L10676,2026-01-08,PV,Organic Search,3-5 MA,Bayern,39
+L10702,2026-01-08,Maler,Organic Search,3-5 MA,Schweiz,70
+L10240,2026-01-09,SHK,Organic Search,6-15 MA,Hessen,61
+L10363,2026-01-09,PV,Meta Ads,3-5 MA,Schweiz,53
+L10554,2026-01-09,SHK,Organic Search,16-50 MA,Berlin,49
+L10599,2026-01-09,SHK,Organic Search,16-50 MA,Österreich,67
+L10630,2026-01-09,PV,Google Ads,1-2 MA,Schweiz,26
+L10687,2026-01-09,SHK,Google Ads,16-50 MA,Hamburg,74
+L10701,2026-01-09,Dachdecker,Meta Ads,3-5 MA,Bayern,55
+L10819,2026-01-09,SHK,Referral,3-5 MA,Sachsen,65
+L10103,2026-01-10,SHK,Google Ads,6-15 MA,Hessen,38
+L10214,2026-01-10,Elektro,Google Ads,50+ MA,Sachsen,61
+L10233,2026-01-10,PV,Google Ads,6-15 MA,Österreich,70
+L10501,2026-01-10,SHK,Google Ads,16-50 MA,Schweiz,71
+L10693,2026-01-10,PV,Meta Ads,6-15 MA,Niedersachsen,58
+L10276,2026-01-11,SHK,Google Ads,6-15 MA,Sachsen,79
+L10666,2026-01-11,Maler,Meta Ads,3-5 MA,Niedersachsen,48
+L10748,2026-01-11,PV,Google Ads,1-2 MA,Niedersachsen,55
+L10386,2026-01-12,PV,Google Ads,6-15 MA,Österreich,55
+L10450,2026-01-12,PV,Google Ads,1-2 MA,Niedersachsen,58
+L10585,2026-01-12,SHK,Organic Search,1-2 MA,NRW,52
+L10736,2026-01-12,Elektro,Organic Search,3-5 MA,Schweiz,61
+L10008,2026-01-13,PV,Google Ads,3-5 MA,Sachsen,52
+L10133,2026-01-13,PV,Meta Ads,3-5 MA,Niedersachsen,60
+L10157,2026-01-13,Maler,Organic Search,1-2 MA,Niedersachsen,51
+L10186,2026-01-13,Elektro,Google Ads,3-5 MA,Sachsen,66
+L10354,2026-01-13,PV,Google Ads,6-15 MA,NRW,55
+L10579,2026-01-13,Elektro,Google Ads,3-5 MA,Schweiz,58
+L10646,2026-01-13,Elektro,Referral,3-5 MA,Sachsen,78
+L10360,2026-01-14,SHK,Organic Search,50+ MA,BW,72
+L10471,2026-01-14,SHK,Organic Search,3-5 MA,NRW,54
+L10552,2026-01-14,PV,Meta Ads,1-2 MA,Bayern,33
+L10234,2026-01-15,SHK,Organic Search,3-5 MA,Sachsen,56
+L10435,2026-01-15,PV,Organic Search,3-5 MA,NRW,65
+L10013,2026-01-16,PV,Referral,1-2 MA,NRW,50
+L10041,2026-01-16,PV,Google Ads,3-5 MA,BW,30
+L10281,2026-01-16,PV,Referral,3-5 MA,Sachsen,80
+L10414,2026-01-16,PV,Meta Ads,3-5 MA,Berlin,47
+L10784,2026-01-16,SHK,Organic Search,6-15 MA,Sachsen,90
+L10056,2026-01-17,Dachdecker,Google Ads,50+ MA,Hessen,52
+L10197,2026-01-17,PV,Meta Ads,3-5 MA,Sachsen,39
+L10451,2026-01-17,PV,Google Ads,3-5 MA,Hessen,50
+L10684,2026-01-17,Dachdecker,Organic Search,1-2 MA,NRW,57
+L10769,2026-01-17,PV,Meta Ads,1-2 MA,NRW,44
+L10195,2026-01-18,PV,Organic Search,1-2 MA,Bayern,42
+L10062,2026-01-19,PV,Google Ads,6-15 MA,Niedersachsen,73
+L10218,2026-01-19,PV,Google Ads,50+ MA,Schweiz,48
+L10679,2026-01-19,PV,Meta Ads,6-15 MA,Sachsen,42
+L10068,2026-01-20,PV,Referral,6-15 MA,Berlin,91
+L10124,2026-01-20,PV,Google Ads,6-15 MA,Hamburg,89
+L10143,2026-01-20,PV,Meta Ads,1-2 MA,BW,49
+L10225,2026-01-20,PV,Google Ads,3-5 MA,BW,53
+L10268,2026-01-20,Elektro,Meta Ads,6-15 MA,Sachsen,60
+L10347,2026-01-20,PV,Google Ads,1-2 MA,NRW,22
+L10581,2026-01-20,PV,Google Ads,16-50 MA,Schweiz,83
+L10601,2026-01-20,Maler,Referral,3-5 MA,Österreich,43
+L10683,2026-01-20,PV,Referral,1-2 MA,Hessen,53
+L10708,2026-01-20,Dachdecker,Google Ads,1-2 MA,Niedersachsen,40
+L10755,2026-01-20,PV,Organic Search,6-15 MA,Schweiz,64
+L10798,2026-01-20,PV,Google Ads,3-5 MA,Niedersachsen,34
+L10032,2026-01-21,PV,Google Ads,16-50 MA,BW,66
+L10271,2026-01-21,Dachdecker,Google Ads,1-2 MA,Sachsen,56
+L10287,2026-01-21,PV,Google Ads,3-5 MA,Schweiz,60
+L10705,2026-01-21,PV,Meta Ads,16-50 MA,BW,40
+L10511,2026-01-22,PV,Google Ads,3-5 MA,NRW,68
+L10243,2026-01-23,PV,Meta Ads,6-15 MA,Sachsen,38
+L10367,2026-01-23,PV,Meta Ads,3-5 MA,Bayern,30
+L10421,2026-01-23,PV,Google Ads,1-2 MA,Hessen,31
+L10632,2026-01-23,Elektro,Google Ads,16-50 MA,Berlin,63
+L10800,2026-01-23,SHK,Google Ads,6-15 MA,Berlin,67
+L10059,2026-01-24,PV,Meta Ads,3-5 MA,Schweiz,38
+L10092,2026-01-24,PV,Google Ads,6-15 MA,Schweiz,84
+L10620,2026-01-24,Elektro,Google Ads,1-2 MA,Bayern,63
+L10734,2026-01-24,SHK,Google Ads,3-5 MA,BW,55
+L10065,2026-01-25,PV,Organic Search,16-50 MA,NRW,58
+L10389,2026-01-25,PV,Organic Search,1-2 MA,Bayern,32
+L10804,2026-01-25,Elektro,Google Ads,16-50 MA,Hamburg,58
+L10072,2026-01-26,PV,Referral,3-5 MA,Hessen,65
+L10163,2026-01-26,Dachdecker,Referral,1-2 MA,Sachsen,74
+L10245,2026-01-26,Dachdecker,Google Ads,3-5 MA,Berlin,47
+L10313,2026-01-26,PV,Meta Ads,16-50 MA,BW,35
+L10472,2026-01-26,SHK,Referral,6-15 MA,Niedersachsen,84
+L10521,2026-01-26,Elektro,Organic Search,6-15 MA,Schweiz,54
+L10793,2026-01-26,Dachdecker,Organic Search,6-15 MA,Hessen,55
+L10003,2026-01-27,PV,Meta Ads,1-2 MA,NRW,43
+L10025,2026-01-27,Elektro,Google Ads,3-5 MA,Schweiz,65
+L10098,2026-01-27,SHK,Organic Search,3-5 MA,Niedersachsen,59
+L10112,2026-01-27,PV,Organic Search,1-2 MA,Hessen,46
+L10171,2026-01-27,Dachdecker,Meta Ads,1-2 MA,Österreich,27
+L10204,2026-01-27,Elektro,Google Ads,3-5 MA,BW,69
+L10270,2026-01-27,SHK,Google Ads,3-5 MA,Berlin,69
+L10320,2026-01-27,Dachdecker,Organic Search,3-5 MA,Österreich,48
+L10381,2026-01-27,PV,Referral,3-5 MA,Österreich,74
+L10462,2026-01-27,PV,Meta Ads,6-15 MA,Niedersachsen,65
+L10654,2026-01-27,PV,Meta Ads,3-5 MA,Niedersachsen,47
+L10809,2026-01-27,SHK,Meta Ads,6-15 MA,Österreich,73
+L10042,2026-01-28,PV,Meta Ads,1-2 MA,Österreich,26
+L10569,2026-01-28,Elektro,Google Ads,16-50 MA,Berlin,48
+L10588,2026-01-28,Maler,Organic Search,1-2 MA,Hamburg,34
+L10783,2026-01-28,PV,Meta Ads,1-2 MA,Österreich,32
+L10802,2026-01-28,SHK,Organic Search,50+ MA,Österreich,72
+L10145,2026-01-29,SHK,Google Ads,16-50 MA,Hessen,74
+L10196,2026-01-29,Dachdecker,Organic Search,1-2 MA,BW,39
+L10753,2026-01-29,PV,Organic Search,1-2 MA,NRW,60
+L10030,2026-01-30,SHK,Organic Search,6-15 MA,BW,60
+L10093,2026-01-30,PV,Meta Ads,3-5 MA,Niedersachsen,31
+L10155,2026-01-30,SHK,Referral,50+ MA,Berlin,80
+L10201,2026-01-30,PV,Organic Search,3-5 MA,Schweiz,79
+L10237,2026-01-30,PV,Referral,3-5 MA,NRW,51
+L10257,2026-01-30,PV,Organic Search,6-15 MA,BW,56
+L10606,2026-01-30,SHK,Organic Search,1-2 MA,Sachsen,58
+L10749,2026-01-30,SHK,Organic Search,6-15 MA,Berlin,68
+L10129,2026-01-31,PV,Google Ads,3-5 MA,Schweiz,62
+L10544,2026-01-31,PV,Referral,16-50 MA,Berlin,93
+L10671,2026-01-31,PV,Referral,1-2 MA,Niedersachsen,50
+L10718,2026-01-31,PV,Meta Ads,3-5 MA,Hamburg,49
+L10729,2026-01-31,Dachdecker,Google Ads,3-5 MA,Berlin,30
+L10284,2026-02-01,PV,Google Ads,50+ MA,Schweiz,66
+L10289,2026-02-01,PV,Meta Ads,1-2 MA,Österreich,33
+L10475,2026-02-02,PV,Meta Ads,16-50 MA,Österreich,63
+L10682,2026-02-02,SHK,Google Ads,6-15 MA,Niedersachsen,59
+L10733,2026-02-02,Elektro,Meta Ads,16-50 MA,Niedersachsen,39
+L10034,2026-02-03,PV,Meta Ads,16-50 MA,NRW,53
+L10047,2026-02-03,Dachdecker,Google Ads,1-2 MA,Berlin,42
+L10080,2026-02-03,Elektro,Google Ads,6-15 MA,Berlin,59
+L10416,2026-02-03,SHK,Google Ads,6-15 MA,BW,75
+L10614,2026-02-03,Dachdecker,Google Ads,3-5 MA,Österreich,35
+L10634,2026-02-03,Elektro,Meta Ads,6-15 MA,Hessen,45
+L10762,2026-02-03,PV,Organic Search,6-15 MA,BW,87
+L10770,2026-02-03,PV,Google Ads,6-15 MA,Österreich,57
+L10015,2026-02-04,SHK,Google Ads,1-2 MA,NRW,43
+L10117,2026-02-04,PV,Meta Ads,16-50 MA,Sachsen,81
+L10132,2026-02-04,PV,Organic Search,3-5 MA,Sachsen,74
+L10242,2026-02-05,Elektro,Organic Search,16-50 MA,Hessen,58
+L10403,2026-02-05,PV,Google Ads,6-15 MA,Hamburg,71
+L10418,2026-02-05,Dachdecker,Google Ads,3-5 MA,Schweiz,38
+L10445,2026-02-05,PV,Meta Ads,3-5 MA,Schweiz,35
+L10490,2026-02-05,PV,Google Ads,3-5 MA,Sachsen,40
+L10562,2026-02-05,PV,Referral,3-5 MA,Niedersachsen,40
+L10350,2026-02-06,PV,Organic Search,16-50 MA,NRW,53
+L10591,2026-02-06,PV,Referral,6-15 MA,Niedersachsen,79
+L10698,2026-02-06,Dachdecker,Google Ads,6-15 MA,Österreich,70
+L10785,2026-02-06,SHK,Google Ads,3-5 MA,Berlin,31
+L10796,2026-02-06,PV,Organic Search,6-15 MA,NRW,82
+L10019,2026-02-07,Dachdecker,Referral,3-5 MA,Österreich,81
+L10038,2026-02-07,SHK,Google Ads,6-15 MA,Niedersachsen,63
+L10175,2026-02-07,SHK,Meta Ads,6-15 MA,Österreich,54
+L10348,2026-02-07,SHK,Meta Ads,6-15 MA,Schweiz,80
+L10600,2026-02-08,PV,Organic Search,3-5 MA,Bayern,62
+L10280,2026-02-09,PV,Meta Ads,6-15 MA,Sachsen,82
+L10306,2026-02-09,PV,Google Ads,1-2 MA,NRW,50
+L10523,2026-02-09,SHK,Organic Search,6-15 MA,Berlin,49
+L10208,2026-02-10,PV,Meta Ads,16-50 MA,Berlin,61
+L10346,2026-02-10,Dachdecker,Google Ads,50+ MA,Bayern,30
+L10221,2026-02-11,SHK,Google Ads,3-5 MA,Schweiz,38
+L10250,2026-02-11,Elektro,Google Ads,3-5 MA,BW,31
+L10333,2026-02-11,Elektro,Google Ads,3-5 MA,BW,58
+L10477,2026-02-11,PV,Google Ads,3-5 MA,NRW,36
+L10779,2026-02-11,SHK,Google Ads,3-5 MA,Schweiz,47
+L10154,2026-02-12,PV,Meta Ads,1-2 MA,Hamburg,37
+L10193,2026-02-12,PV,Organic Search,16-50 MA,Sachsen,61
+L10282,2026-02-12,PV,Meta Ads,3-5 MA,Bayern,48
+L10323,2026-02-12,Elektro,Google Ads,3-5 MA,NRW,47
+L10339,2026-02-12,Elektro,Organic Search,3-5 MA,Hamburg,64
+L10428,2026-02-12,PV,Meta Ads,1-2 MA,Sachsen,26
+L10024,2026-02-13,PV,Organic Search,6-15 MA,Berlin,81
+L10028,2026-02-13,Maler,Google Ads,6-15 MA,Hamburg,65
+L10314,2026-02-13,Elektro,Google Ads,6-15 MA,BW,63
+L10405,2026-02-13,PV,Google Ads,6-15 MA,Hamburg,73
+L10438,2026-02-13,Elektro,Meta Ads,1-2 MA,BW,52
+L10439,2026-02-13,PV,Google Ads,6-15 MA,BW,67
+L10609,2026-02-13,Elektro,Google Ads,16-50 MA,Sachsen,67
+L10716,2026-02-13,SHK,Google Ads,3-5 MA,Berlin,46
+L10114,2026-02-14,SHK,Google Ads,3-5 MA,NRW,34
+L10318,2026-02-14,Maler,Referral,1-2 MA,Hamburg,35
+L10481,2026-02-14,PV,Google Ads,1-2 MA,Niedersachsen,60
+L10626,2026-02-15,Elektro,Referral,6-15 MA,Sachsen,81
+L10677,2026-02-15,Dachdecker,Google Ads,16-50 MA,Sachsen,65
+L10714,2026-02-15,Maler,Meta Ads,6-15 MA,NRW,76
+L10778,2026-02-15,PV,Meta Ads,1-2 MA,Bayern,30
+L10810,2026-02-15,PV,Google Ads,16-50 MA,Schweiz,49
+L10049,2026-02-16,PV,Organic Search,1-2 MA,NRW,59
+L10104,2026-02-16,Maler,Google Ads,6-15 MA,Hamburg,41
+L10127,2026-02-16,Elektro,Google Ads,16-50 MA,BW,67
+L10368,2026-02-16,PV,Google Ads,3-5 MA,Berlin,30
+L10391,2026-02-16,PV,Google Ads,50+ MA,Niedersachsen,55
+L10513,2026-02-16,Elektro,Google Ads,3-5 MA,Bayern,69
+L10589,2026-02-16,Dachdecker,Referral,3-5 MA,Österreich,60
+L10625,2026-02-16,SHK,Organic Search,1-2 MA,Schweiz,63
+L10786,2026-02-16,Elektro,Referral,3-5 MA,Berlin,49
+L10210,2026-02-17,Elektro,Organic Search,6-15 MA,Schweiz,59
+L10329,2026-02-17,Dachdecker,Referral,16-50 MA,Berlin,95
+L10740,2026-02-17,PV,Google Ads,3-5 MA,NRW,64
+L10759,2026-02-17,PV,Meta Ads,1-2 MA,Hamburg,43
+L10040,2026-02-18,Dachdecker,Meta Ads,3-5 MA,Sachsen,41
+L10149,2026-02-18,PV,Organic Search,50+ MA,Schweiz,68
+L10296,2026-02-18,SHK,Organic Search,6-15 MA,Schweiz,62
+L10316,2026-02-18,PV,Google Ads,16-50 MA,Bayern,68
+L10359,2026-02-18,Dachdecker,Google Ads,3-5 MA,Österreich,51
+L10419,2026-02-18,PV,Organic Search,16-50 MA,Bayern,50
+L10459,2026-02-19,PV,Google Ads,1-2 MA,Hessen,36
+L10509,2026-02-19,PV,Referral,6-15 MA,Schweiz,64
+L10761,2026-02-19,Dachdecker,Google Ads,6-15 MA,Sachsen,70
+L10105,2026-02-20,PV,Google Ads,3-5 MA,Bayern,46
+L10119,2026-02-20,PV,Google Ads,3-5 MA,Hamburg,47
+L10406,2026-02-20,PV,Google Ads,16-50 MA,Sachsen,70
+L10619,2026-02-20,Dachdecker,Organic Search,3-5 MA,Hamburg,78
+L10767,2026-02-20,PV,Meta Ads,3-5 MA,Berlin,37
+L10788,2026-02-20,Maler,Google Ads,16-50 MA,Sachsen,67
+L10099,2026-02-21,PV,Google Ads,3-5 MA,Österreich,51
+L10050,2026-02-22,PV,Meta Ads,1-2 MA,Sachsen,19
+L10179,2026-02-22,PV,Referral,6-15 MA,Berlin,80
+L10211,2026-02-22,Dachdecker,Organic Search,3-5 MA,Berlin,47
+L10515,2026-02-22,Maler,Organic Search,16-50 MA,Schweiz,59
+L10089,2026-02-23,PV,Organic Search,1-2 MA,Hessen,59
+L10169,2026-02-23,SHK,Google Ads,1-2 MA,Berlin,57
+L10514,2026-02-23,PV,Meta Ads,3-5 MA,NRW,57
+L10650,2026-02-23,Dachdecker,Google Ads,1-2 MA,Bayern,24
+L10187,2026-02-24,SHK,Google Ads,1-2 MA,Schweiz,18
+L10205,2026-02-24,PV,Meta Ads,6-15 MA,Bayern,64
+L10231,2026-02-24,PV,Meta Ads,6-15 MA,NRW,66
+L10396,2026-02-24,Elektro,Google Ads,1-2 MA,Sachsen,45
+L10651,2026-02-24,PV,Google Ads,1-2 MA,Schweiz,34
+L10795,2026-02-24,PV,Google Ads,3-5 MA,Hamburg,38
+L10021,2026-02-25,SHK,Google Ads,16-50 MA,Hessen,51
+L10209,2026-02-25,PV,Google Ads,3-5 MA,Sachsen,36
+L10673,2026-02-25,PV,Google Ads,1-2 MA,Hamburg,53
+L10206,2026-02-26,Elektro,Meta Ads,1-2 MA,BW,37
+L10658,2026-02-26,PV,Google Ads,6-15 MA,Bayern,72
+L10441,2026-02-27,PV,Meta Ads,6-15 MA,NRW,40
+L10517,2026-02-27,Elektro,Meta Ads,3-5 MA,Schweiz,58
+L10572,2026-02-27,PV,Google Ads,16-50 MA,NRW,80
+L10586,2026-02-27,SHK,Google Ads,16-50 MA,Niedersachsen,70
+L10801,2026-02-27,PV,Referral,6-15 MA,Bayern,88
+L10162,2026-02-28,Maler,Google Ads,1-2 MA,Sachsen,31
+L10228,2026-02-28,SHK,Google Ads,3-5 MA,NRW,65
+L10232,2026-02-28,PV,Google Ads,3-5 MA,BW,63
+L10410,2026-02-28,SHK,Google Ads,3-5 MA,Bayern,66
+L10607,2026-02-28,Elektro,Organic Search,16-50 MA,Österreich,69
+L10704,2026-02-28,PV,Google Ads,1-2 MA,NRW,60
+L10086,2026-03-01,SHK,Google Ads,6-15 MA,Schweiz,62
+L10266,2026-03-01,PV,Meta Ads,6-15 MA,Hessen,66
+L10139,2026-03-02,PV,Organic Search,16-50 MA,Bayern,82
+L10263,2026-03-02,PV,Google Ads,6-15 MA,NRW,76
+L10423,2026-03-02,PV,Google Ads,3-5 MA,BW,36
+L10594,2026-03-02,PV,Organic Search,16-50 MA,NRW,66
+L10752,2026-03-02,PV,Referral,6-15 MA,BW,100
+L10774,2026-03-02,SHK,Google Ads,16-50 MA,Niedersachsen,62
+L10140,2026-03-03,Elektro,Organic Search,3-5 MA,BW,62
+L10380,2026-03-03,Elektro,Google Ads,1-2 MA,Berlin,48
+L10392,2026-03-03,PV,Google Ads,3-5 MA,Bayern,69
+L10468,2026-03-03,SHK,Referral,6-15 MA,BW,51
+L10491,2026-03-04,SHK,Referral,6-15 MA,Sachsen,77
+L10549,2026-03-04,PV,Meta Ads,3-5 MA,Bayern,24
+L10653,2026-03-04,PV,Google Ads,6-15 MA,Hessen,46
+L10000,2026-03-05,PV,Google Ads,3-5 MA,NRW,36
+L10057,2026-03-05,PV,Meta Ads,16-50 MA,Sachsen,35
+L10183,2026-03-05,PV,Meta Ads,6-15 MA,Hessen,37
+L10246,2026-03-05,Maler,Referral,1-2 MA,Berlin,56
+L10259,2026-03-05,PV,Google Ads,6-15 MA,NRW,75
+L10474,2026-03-05,PV,Referral,6-15 MA,Österreich,63
+L10504,2026-03-05,Elektro,Meta Ads,16-50 MA,Sachsen,60
+L10648,2026-03-05,SHK,Google Ads,1-2 MA,Schweiz,22
+L10128,2026-03-06,PV,Organic Search,6-15 MA,Österreich,73
+L10152,2026-03-06,PV,Google Ads,1-2 MA,Sachsen,32
+L10207,2026-03-06,Elektro,Google Ads,3-5 MA,Hamburg,63
+L10300,2026-03-06,PV,Google Ads,6-15 MA,Niedersachsen,70
+L10384,2026-03-06,Elektro,Organic Search,6-15 MA,Berlin,46
+L10390,2026-03-06,PV,Google Ads,16-50 MA,Niedersachsen,73
+L10530,2026-03-06,PV,Google Ads,3-5 MA,Schweiz,49
+L10567,2026-03-06,Elektro,Google Ads,3-5 MA,Schweiz,47
+L10159,2026-03-07,SHK,Google Ads,50+ MA,Hessen,61
+L10498,2026-03-07,Dachdecker,Google Ads,1-2 MA,BW,43
+L10645,2026-03-07,PV,Google Ads,16-50 MA,BW,76
+L10185,2026-03-08,SHK,Google Ads,6-15 MA,Bayern,46
+L10295,2026-03-08,PV,Google Ads,3-5 MA,Österreich,47
+L10773,2026-03-08,Elektro,Google Ads,50+ MA,Schweiz,58
+L10066,2026-03-09,PV,Meta Ads,16-50 MA,Niedersachsen,58
+L10082,2026-03-09,PV,Google Ads,1-2 MA,Hamburg,36
+L10122,2026-03-09,PV,Referral,6-15 MA,Hamburg,64
+L10135,2026-03-09,PV,Organic Search,1-2 MA,Bayern,33
+L10244,2026-03-09,PV,Google Ads,6-15 MA,NRW,74
+L10713,2026-03-09,Dachdecker,Google Ads,16-50 MA,Hamburg,77
+L10309,2026-03-10,Elektro,Google Ads,3-5 MA,Österreich,49
+L10611,2026-03-10,Elektro,Google Ads,6-15 MA,Schweiz,51
+L10642,2026-03-10,Dachdecker,Google Ads,3-5 MA,Hamburg,59
+L10283,2026-03-11,PV,Google Ads,3-5 MA,Bayern,68
+L10297,2026-03-11,Elektro,Referral,3-5 MA,BW,71
+L10335,2026-03-11,SHK,Meta Ads,1-2 MA,Schweiz,50
+L10398,2026-03-11,SHK,Google Ads,3-5 MA,NRW,53
+L10563,2026-03-11,SHK,Google Ads,6-15 MA,Hamburg,46
+L10772,2026-03-11,Elektro,Google Ads,3-5 MA,Sachsen,68
+L10001,2026-03-12,PV,Organic Search,6-15 MA,Bayern,44
+L10063,2026-03-12,SHK,Organic Search,6-15 MA,Berlin,77
+L10151,2026-03-12,PV,Organic Search,6-15 MA,NRW,88
+L10190,2026-03-12,PV,Organic Search,6-15 MA,Bayern,70
+L10220,2026-03-12,Maler,Referral,3-5 MA,Hessen,72
+L10290,2026-03-12,PV,Organic Search,6-15 MA,Hessen,95
+L10529,2026-03-12,PV,Google Ads,6-15 MA,Bayern,69
+L10576,2026-03-12,SHK,Organic Search,16-50 MA,Schweiz,48
+L10011,2026-03-13,PV,Google Ads,1-2 MA,Bayern,39
+L10051,2026-03-13,SHK,Google Ads,16-50 MA,Berlin,78
+L10144,2026-03-13,Dachdecker,Google Ads,1-2 MA,Hamburg,61
+L10534,2026-03-13,SHK,Google Ads,50+ MA,Sachsen,47
+L10612,2026-03-13,Elektro,Referral,16-50 MA,BW,85
+L10745,2026-03-13,PV,Meta Ads,6-15 MA,Sachsen,70
+L10107,2026-03-14,SHK,Google Ads,6-15 MA,Hessen,47
+L10370,2026-03-14,SHK,Google Ads,3-5 MA,Hamburg,39
+L10539,2026-03-14,PV,Meta Ads,16-50 MA,Sachsen,74
+L10575,2026-03-14,SHK,Organic Search,6-15 MA,Niedersachsen,86
+L10310,2026-03-15,Dachdecker,Google Ads,3-5 MA,Schweiz,44
+L10399,2026-03-15,Elektro,Google Ads,6-15 MA,Schweiz,72
+L10487,2026-03-15,PV,Referral,3-5 MA,Schweiz,57
+L10518,2026-03-15,Elektro,Google Ads,16-50 MA,Niedersachsen,53
+L10077,2026-03-16,Dachdecker,Google Ads,6-15 MA,Hamburg,46
+L10087,2026-03-16,Elektro,Google Ads,6-15 MA,BW,54
+L10353,2026-03-16,PV,Google Ads,16-50 MA,Bayern,52
+L10670,2026-03-16,SHK,Organic Search,3-5 MA,Bayern,41
+L10007,2026-03-17,PV,Google Ads,6-15 MA,BW,52
+L10184,2026-03-17,Maler,Organic Search,3-5 MA,NRW,48
+L10213,2026-03-17,PV,Organic Search,6-15 MA,Österreich,62
+L10252,2026-03-17,Maler,Meta Ads,3-5 MA,Hamburg,41
+L10292,2026-03-17,PV,Google Ads,3-5 MA,Sachsen,65
+L10312,2026-03-17,PV,Meta Ads,6-15 MA,Niedersachsen,44
+L10338,2026-03-17,Dachdecker,Google Ads,6-15 MA,Hessen,73
+L10442,2026-03-17,PV,Google Ads,3-5 MA,Österreich,46
+L10485,2026-03-17,Elektro,Referral,1-2 MA,Hessen,55
+L10525,2026-03-17,Elektro,Google Ads,3-5 MA,Berlin,70
+L10790,2026-03-17,Dachdecker,Referral,3-5 MA,NRW,78
+L10212,2026-03-18,Elektro,Referral,3-5 MA,Sachsen,58
+L10255,2026-03-18,PV,Referral,16-50 MA,Österreich,65
+L10173,2026-03-19,SHK,Referral,1-2 MA,Schweiz,43
+L10365,2026-03-19,SHK,Organic Search,3-5 MA,Sachsen,41
+L10531,2026-03-19,PV,Referral,3-5 MA,Berlin,69
+L10556,2026-03-19,SHK,Organic Search,16-50 MA,Hessen,79
+L10258,2026-03-20,PV,Organic Search,6-15 MA,Schweiz,50
+L10298,2026-03-20,PV,Meta Ads,1-2 MA,Österreich,19
+L10342,2026-03-20,SHK,Google Ads,3-5 MA,Berlin,66
+L10560,2026-03-20,PV,Meta Ads,16-50 MA,Hamburg,49
+L10587,2026-03-20,PV,Google Ads,1-2 MA,Schweiz,25
+L10618,2026-03-20,SHK,Google Ads,1-2 MA,Hessen,59
+L10696,2026-03-20,Elektro,Google Ads,3-5 MA,Berlin,42
+L10102,2026-03-21,PV,Meta Ads,6-15 MA,BW,53
+L10137,2026-03-21,Dachdecker,Google Ads,50+ MA,BW,60
+L10432,2026-03-21,PV,Meta Ads,6-15 MA,Hessen,48
+L10613,2026-03-21,Dachdecker,Google Ads,16-50 MA,Sachsen,81
+L10656,2026-03-21,Maler,Organic Search,6-15 MA,BW,69
+L10751,2026-03-21,Elektro,Google Ads,3-5 MA,Niedersachsen,66
+L10806,2026-03-21,Elektro,Meta Ads,6-15 MA,Österreich,49
+L10010,2026-03-22,PV,Google Ads,3-5 MA,Österreich,44
+L10229,2026-03-22,PV,Meta Ads,6-15 MA,Niedersachsen,57
+L10440,2026-03-22,Elektro,Referral,3-5 MA,Berlin,54
+L10553,2026-03-22,PV,Meta Ads,3-5 MA,NRW,44
+L10555,2026-03-22,SHK,Referral,1-2 MA,Österreich,41
+L10763,2026-03-22,Elektro,Organic Search,16-50 MA,Sachsen,78
+L10787,2026-03-22,Maler,Google Ads,6-15 MA,Niedersachsen,68
+L10792,2026-03-22,Elektro,Google Ads,50+ MA,Berlin,49
+L10079,2026-03-23,PV,Meta Ads,3-5 MA,Niedersachsen,41
+L10236,2026-03-23,SHK,Organic Search,3-5 MA,Sachsen,51
+L10251,2026-03-23,PV,Google Ads,16-50 MA,BW,59
+L10486,2026-03-23,PV,Referral,50+ MA,Sachsen,59
+L10635,2026-03-23,SHK,Referral,1-2 MA,Bayern,77
+L10638,2026-03-23,SHK,Organic Search,6-15 MA,BW,80
+L10803,2026-03-23,Elektro,Google Ads,6-15 MA,Bayern,56
+L10326,2026-03-24,PV,Google Ads,6-15 MA,Bayern,52
+L10337,2026-03-24,Maler,Google Ads,3-5 MA,Niedersachsen,68
+L10538,2026-03-24,PV,Google Ads,6-15 MA,Niedersachsen,63
+L10712,2026-03-24,PV,Google Ads,1-2 MA,NRW,26
+L10046,2026-03-25,PV,Meta Ads,6-15 MA,Sachsen,48
+L10130,2026-03-25,Dachdecker,Organic Search,3-5 MA,Berlin,60
+L10161,2026-03-25,PV,Organic Search,6-15 MA,NRW,72
+L10170,2026-03-25,PV,Google Ads,3-5 MA,Schweiz,36
+L10602,2026-03-25,PV,Google Ads,16-50 MA,Hamburg,60
+L10302,2026-03-26,Maler,Referral,16-50 MA,Bayern,72
+L10458,2026-03-26,SHK,Google Ads,1-2 MA,Berlin,20
+L10466,2026-03-26,SHK,Meta Ads,1-2 MA,NRW,32
+L10715,2026-03-26,PV,Meta Ads,6-15 MA,Österreich,58
+L10084,2026-03-27,PV,Referral,16-50 MA,Hamburg,52
+L10219,2026-03-27,PV,Organic Search,6-15 MA,Hessen,78
+L10430,2026-03-27,PV,Google Ads,3-5 MA,Berlin,50
+L10603,2026-03-27,PV,Meta Ads,3-5 MA,Niedersachsen,41
+L10621,2026-03-27,SHK,Organic Search,16-50 MA,Sachsen,77
+L10125,2026-03-28,Elektro,Google Ads,1-2 MA,Hessen,46
+L10141,2026-03-28,PV,Meta Ads,3-5 MA,Hessen,31
+L10407,2026-03-28,PV,Organic Search,50+ MA,BW,52
+L10495,2026-03-28,SHK,Organic Search,1-2 MA,Bayern,43
+L10548,2026-03-28,PV,Organic Search,1-2 MA,BW,36
+L10775,2026-03-28,SHK,Organic Search,6-15 MA,Niedersachsen,85
+L10344,2026-03-29,Maler,Organic Search,6-15 MA,Hamburg,79
+L10688,2026-03-29,Maler,Organic Search,16-50 MA,Sachsen,92
+L10719,2026-03-29,PV,Meta Ads,3-5 MA,Bayern,60
+L10722,2026-03-29,PV,Organic Search,6-15 MA,Hessen,69
+L10756,2026-03-29,PV,Meta Ads,3-5 MA,Hamburg,52
+L10260,2026-03-30,PV,Referral,16-50 MA,Bayern,60
+L10364,2026-03-30,PV,Meta Ads,6-15 MA,BW,50
+L10383,2026-03-30,PV,Google Ads,1-2 MA,Schweiz,18
+L10574,2026-03-30,PV,Organic Search,3-5 MA,Sachsen,72
+L10681,2026-03-30,Elektro,Google Ads,6-15 MA,Hamburg,72
+L10150,2026-03-31,PV,Organic Search,3-5 MA,Niedersachsen,76
+L10294,2026-03-31,Elektro,Organic Search,3-5 MA,BW,60
+L10362,2026-03-31,PV,Google Ads,16-50 MA,Hamburg,73
+L10409,2026-03-31,SHK,Organic Search,6-15 MA,Sachsen,93
+L10484,2026-03-31,PV,Google Ads,3-5 MA,BW,53
+L10743,2026-03-31,PV,Meta Ads,3-5 MA,Bayern,64
+L10744,2026-03-31,PV,Meta Ads,1-2 MA,Österreich,38
+L10090,2026-04-01,PV,Google Ads,6-15 MA,BW,77
+L10138,2026-04-01,Elektro,Referral,6-15 MA,BW,83
+L10198,2026-04-01,PV,Google Ads,1-2 MA,Österreich,32
+L10564,2026-04-01,PV,Meta Ads,1-2 MA,Hessen,28
+L10703,2026-04-01,Elektro,Google Ads,6-15 MA,Hamburg,52
+L10420,2026-04-02,SHK,Organic Search,16-50 MA,NRW,82
+L10622,2026-04-02,PV,Organic Search,3-5 MA,Hamburg,62
+L10667,2026-04-02,Elektro,Meta Ads,6-15 MA,Hamburg,51
+L10727,2026-04-02,Maler,Organic Search,3-5 MA,Bayern,56
+L10256,2026-04-03,PV,Google Ads,1-2 MA,Österreich,56
+L10431,2026-04-03,Elektro,Google Ads,1-2 MA,Österreich,54
+L10735,2026-04-03,Maler,Google Ads,6-15 MA,Hamburg,77
+L10293,2026-04-04,Elektro,Organic Search,6-15 MA,Österreich,78
+L10345,2026-04-04,SHK,Google Ads,6-15 MA,NRW,70
+L10352,2026-04-04,Elektro,Google Ads,3-5 MA,Schweiz,45
+L10379,2026-04-04,PV,Google Ads,16-50 MA,Berlin,70
+L10071,2026-04-05,PV,Meta Ads,6-15 MA,Sachsen,68
+L10340,2026-04-05,PV,Referral,16-50 MA,Niedersachsen,84
+L10029,2026-04-06,SHK,Google Ads,6-15 MA,Sachsen,75
+L10070,2026-04-06,PV,Referral,1-2 MA,Niedersachsen,47
+L10267,2026-04-06,PV,Organic Search,3-5 MA,Bayern,48
+L10374,2026-04-06,PV,Organic Search,3-5 MA,Schweiz,45
+L10444,2026-04-06,PV,Meta Ads,3-5 MA,Schweiz,69
+L10536,2026-04-06,PV,Organic Search,3-5 MA,Sachsen,48
+L10596,2026-04-06,SHK,Google Ads,3-5 MA,Bayern,33
+L10636,2026-04-07,PV,Meta Ads,6-15 MA,Bayern,70
+L10680,2026-04-07,Elektro,Organic Search,3-5 MA,Berlin,74
+L10045,2026-04-08,Dachdecker,Meta Ads,1-2 MA,NRW,39
+L10317,2026-04-08,SHK,Google Ads,1-2 MA,Berlin,46
+L10623,2026-04-09,PV,Organic Search,6-15 MA,NRW,79
+L10617,2026-04-10,Maler,Organic Search,6-15 MA,BW,52
+L10721,2026-04-10,Elektro,Google Ads,3-5 MA,Niedersachsen,63
+L10044,2026-04-11,PV,Meta Ads,50+ MA,Österreich,20
+L10224,2026-04-11,Dachdecker,Meta Ads,3-5 MA,Hamburg,52
+L10343,2026-04-11,PV,Google Ads,50+ MA,Sachsen,46
+L10467,2026-04-11,Elektro,Organic Search,3-5 MA,Berlin,63
+L10561,2026-04-11,Elektro,Meta Ads,6-15 MA,Hessen,38
+L10644,2026-04-11,PV,Google Ads,6-15 MA,Schweiz,58
+L10216,2026-04-12,PV,Organic Search,6-15 MA,Schweiz,61
+L10322,2026-04-12,SHK,Google Ads,3-5 MA,Österreich,57
+L10464,2026-04-12,SHK,Organic Search,6-15 MA,Sachsen,71
+L10479,2026-04-12,SHK,Referral,3-5 MA,Sachsen,71
+L10598,2026-04-12,PV,Google Ads,3-5 MA,Österreich,32
+L10455,2026-04-13,SHK,Organic Search,3-5 MA,Berlin,54
+L10503,2026-04-13,PV,Google Ads,3-5 MA,Hessen,35
+L10507,2026-04-13,PV,Google Ads,50+ MA,Hamburg,66
+L10540,2026-04-13,PV,Organic Search,3-5 MA,Hamburg,48
+L10583,2026-04-13,PV,Meta Ads,6-15 MA,Hamburg,71
+L10728,2026-04-13,SHK,Organic Search,3-5 MA,Berlin,43
+L10005,2026-04-14,Elektro,Google Ads,1-2 MA,Hamburg,58
+L10181,2026-04-14,Dachdecker,Google Ads,3-5 MA,Hessen,66
+L10262,2026-04-14,SHK,Google Ads,50+ MA,Hessen,38
+L10275,2026-04-14,SHK,Google Ads,3-5 MA,Sachsen,55
+L10334,2026-04-14,PV,Google Ads,16-50 MA,Bayern,64
+L10355,2026-04-14,PV,Meta Ads,6-15 MA,BW,66
+L10095,2026-04-15,PV,Google Ads,3-5 MA,Hessen,51
+L10417,2026-04-15,PV,Google Ads,3-5 MA,Berlin,43
+L10627,2026-04-15,Elektro,Meta Ads,3-5 MA,Hessen,41
+L10695,2026-04-15,PV,Google Ads,6-15 MA,Schweiz,52
+L10027,2026-04-16,PV,Google Ads,3-5 MA,Hamburg,43
+L10332,2026-04-16,PV,Organic Search,16-50 MA,Österreich,83
+L10412,2026-04-16,Dachdecker,Meta Ads,16-50 MA,NRW,58
+L10448,2026-04-16,PV,Google Ads,6-15 MA,Berlin,59
+L10017,2026-04-17,PV,Referral,1-2 MA,Österreich,57
+L10106,2026-04-17,PV,Meta Ads,3-5 MA,BW,56
+L10321,2026-04-17,SHK,Google Ads,6-15 MA,Österreich,50
+L10593,2026-04-17,PV,Google Ads,6-15 MA,Niedersachsen,53
+L10413,2026-04-18,PV,Organic Search,1-2 MA,NRW,41
+L10764,2026-04-18,PV,Google Ads,6-15 MA,Schweiz,47
+L10811,2026-04-18,PV,Google Ads,1-2 MA,Hessen,37
+L10222,2026-04-19,PV,Google Ads,16-50 MA,Österreich,44
+L10288,2026-04-19,PV,Organic Search,6-15 MA,Österreich,68
+L10408,2026-04-19,PV,Referral,3-5 MA,BW,69
+L10660,2026-04-19,PV,Google Ads,3-5 MA,Hamburg,54
+L10516,2026-04-20,PV,Google Ads,3-5 MA,Hamburg,66
+L10568,2026-04-20,Elektro,Organic Search,3-5 MA,BW,63
+L10094,2026-04-21,PV,Meta Ads,6-15 MA,Berlin,49
+L10158,2026-04-21,Elektro,Referral,6-15 MA,BW,100
+L10299,2026-04-21,PV,Organic Search,3-5 MA,Hessen,57
+L10393,2026-04-21,PV,Google Ads,3-5 MA,Niedersachsen,43
+L10427,2026-04-21,Elektro,Google Ads,16-50 MA,NRW,46
+L10473,2026-04-21,SHK,Meta Ads,3-5 MA,NRW,53
+L10494,2026-04-21,PV,Google Ads,1-2 MA,Hamburg,51
+L10508,2026-04-21,Elektro,Google Ads,3-5 MA,Bayern,62
+L10643,2026-04-21,Maler,Google Ads,3-5 MA,Österreich,70
+L10039,2026-04-22,PV,Meta Ads,1-2 MA,BW,32
+L10176,2026-04-22,Elektro,Google Ads,3-5 MA,Berlin,36
+L10241,2026-04-22,PV,Google Ads,50+ MA,Sachsen,41
+L10582,2026-04-22,Elektro,Meta Ads,6-15 MA,Sachsen,56
+L10647,2026-04-22,PV,Meta Ads,1-2 MA,NRW,30
+L10707,2026-04-22,PV,Meta Ads,3-5 MA,Schweiz,56
+L10546,2026-04-23,PV,Referral,3-5 MA,NRW,52
+L10637,2026-04-23,PV,Referral,6-15 MA,Sachsen,86
+L10497,2026-04-24,Elektro,Referral,50+ MA,Hamburg,47
+L10689,2026-04-24,Dachdecker,Referral,16-50 MA,Hamburg,70
+L10469,2026-04-25,PV,Organic Search,1-2 MA,Sachsen,30
+L10109,2026-04-26,PV,Meta Ads,50+ MA,Hessen,57
+L10153,2026-04-26,PV,Google Ads,1-2 MA,NRW,54
+L10571,2026-04-26,PV,Meta Ads,6-15 MA,NRW,81
+L10301,2026-04-27,PV,Referral,16-50 MA,Bayern,87
+L10081,2026-04-28,PV,Google Ads,1-2 MA,Berlin,53
+L10429,2026-04-28,PV,Google Ads,16-50 MA,BW,45
+L10483,2026-04-28,Dachdecker,Organic Search,1-2 MA,NRW,70
+L10519,2026-04-28,Elektro,Google Ads,3-5 MA,Hessen,49
+L10006,2026-04-29,PV,Google Ads,16-50 MA,Schweiz,64
+L10052,2026-04-29,Dachdecker,Referral,50+ MA,NRW,66
+L10357,2026-04-29,PV,Google Ads,6-15 MA,NRW,55
+L10460,2026-04-29,PV,Organic Search,6-15 MA,Sachsen,77
+L10526,2026-04-29,SHK,Google Ads,3-5 MA,Schweiz,58
